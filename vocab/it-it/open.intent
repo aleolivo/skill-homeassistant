@@ -1,0 +1,4 @@
+apri (il|lo|la|l'|) {Entity}
+puoi aprire (il|lo|la|l'|) {Entity} (per favore|)?
+vorresti aprire (il|lo|la|l'|) {Entity}
+potresti aprire (il|lo|la|l'|) {Entity}
